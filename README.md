@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `52` courses with a total of `410 hours.`
+Below is a list of the courses I completed. There are currently `53` courses with a total of `418 hours.`
 
 #### Java
 
@@ -48,6 +48,10 @@ Below is a list of the courses I completed. There are currently `52` courses wit
 - Spring Boot 3: Develop a Rest API in Java. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/spring-boot-3-desenvolva-api-rest-java/certificate?lang=en)
 - Spring Boot 3: Apply best practices and protect a Rest API. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/spring-boot-aplique-boas-praticas-proteja-api-rest/certificate?lang=en)
 - Spring Boot 3: Document, test and prepare an API for deployment. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/spring-boot-3-documente-teste-prepare-api-deploy/certificate?lang=en)
+
+#### Microservices
+
+- Microservices in practice: understanding decision making. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/Microsservicos-pratica-tomada-decisoes/certificate?lang=en)
 
 #### Python
 
