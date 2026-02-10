@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `53` courses with a total of `418 hours.`
+Below is a list of the courses I completed. There are currently `54` courses with a total of `428 hours.`
 
 #### Java
 
@@ -51,6 +51,7 @@ Below is a list of the courses I completed. There are currently `53` courses wit
 
 #### Microservices
 
+- Microservices in Practice: Implementing with Java and Spring. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/microsservicos-implementando-java-spring/certificate?lang=en)
 - Microservices in practice: understanding decision making. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/Microsservicos-pratica-tomada-decisoes/certificate?lang=en)
 
 #### Python
