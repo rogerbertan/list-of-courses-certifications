@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `54` courses with a total of `428 hours.`
+Below is a list of the courses I completed. There are currently `55` courses with a total of `438 hours.`
 
 #### Java
 
@@ -53,6 +53,16 @@ Below is a list of the courses I completed. There are currently `54` courses wit
 
 - Microservices in Practice: Implementing with Java and Spring. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/microsservicos-implementando-java-spring/certificate?lang=en)
 - Microservices in practice: understanding decision making. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/Microsservicos-pratica-tomada-decisoes/certificate?lang=en)
+- Microservices: Design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 6h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/microsservicos-padroes-projeto/certificate?lang=en)
+
+#### DevOps
+
+- Docker: creating and managing containers. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/docker-criando-gerenciando-containers/certificate?lang=en)
+- NGINX Part 2: Performance, FastCGI and HTTPS. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/nginx-parte-2-performance-fastcgi-https/certificate?lang=en)
+- Terminal: Learn commands to perform tasks. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/terminal-comandos-executar-tarefas/certificate?lang=en)
+- DevOps: Building and managing containers with Docker. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/devops-construindo-gerindo-containers-docker/certificate?lang=en)
+- DevOps: Working with repositories on GitHub. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/devops-trabalhando-repositorios-github/certificate?lang=en)
+- Git and GitHub: Sharing and collaborating on projects. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/git-github-compartilhando-colaborando-projetos/certificate?lang=en)
 
 #### Python
 
@@ -79,18 +89,6 @@ Below is a list of the courses I completed. There are currently `54` courses wit
 #### Mobile
 
 - React Native: Developing with Expo. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/react-native-desenvolvendo-expo/certificate?lang=en)
-
-#### Git
-
-- Git and GitHub: Sharing and collaborating on projects. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/git-github-compartilhando-colaborando-projetos/certificate?lang=en)
-- DevOps: Working with repositories on GitHub. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/devops-trabalhando-repositorios-github/certificate?lang=en)
-
-#### DevOps
-
-- Microservices: Design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 6h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/microsservicos-padroes-projeto/certificate?lang=en)
-- NGINX Part 2: Performance, FastCGI and HTTPS. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/nginx-parte-2-performance-fastcgi-https/certificate?lang=en)
-- Terminal: Learn commands to perform tasks. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/terminal-comandos-executar-tarefas/certificate?lang=en)
-- DevOps: Building and managing containers with Docker. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/devops-construindo-gerindo-containers-docker/certificate?lang=en)
 
 #### Database
 
