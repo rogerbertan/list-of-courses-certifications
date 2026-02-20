@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `56` courses with a total of `448 hours.`
+Below is a list of the courses I completed. There are currently `57` courses with a total of `456 hours.`
 
 #### Java
 
@@ -55,6 +55,10 @@ Below is a list of the courses I completed. There are currently `56` courses wit
 - Microservices in Practice: Implementing with Java and Spring. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/microsservicos-implementando-java-spring/certificate?lang=en)
 - Microservices in practice: understanding decision making. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/Microsservicos-pratica-tomada-decisoes/certificate?lang=en)
 - Microservices: Design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 6h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/microsservicos-padroes-projeto/certificate?lang=en)
+
+#### Cloud
+
+- AWS Certified Cloud Practitioner: Domain 1 and 2. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/aws-certified-cloud-practitioner-domain-1-e-2/certificate?lang=en)
 
 #### DevOps
 
