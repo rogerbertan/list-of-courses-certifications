@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `57` courses with a total of `456 hours.`
+Below is a list of the courses I completed. There are currently `58` courses with a total of `466 hours.`
 
 #### Java
 
@@ -59,6 +59,7 @@ Below is a list of the courses I completed. There are currently `57` courses wit
 #### Cloud
 
 - AWS Certified Cloud Practitioner: Domain 1 and 2. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/aws-certified-cloud-practitioner-domain-1-e-2/certificate?lang=en)
+- AWS Certified Cloud Practitioner: Domain 3 and 4. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/aws-certified-cloud-practitioner-domain-3-e-4/certificate?lang=en)
 
 #### DevOps
 
