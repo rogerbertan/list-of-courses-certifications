@@ -17,10 +17,11 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `58` courses with a total of `466 hours.`
+Below is a list of the courses I completed. There are currently `59` courses with a total of `474 hours.`
 
 #### Java
 
+- Java Architecture: modeling applications with Domain-Driven Design. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/arquitetura-java-aplicacoes-domain-driven-design/certificate?lang=en)
 - Java Architecture: Simplifying Clean Architecture. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/arquitetura-java-descomplicando-clean-architecture/certificate?lang=en)
 - Java: Creating your first application. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/java-criando-primeira-aplicacao/certificate?lang=en)
 - Java: Applying Object Orientation. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/java-aplicando-orientacao-objetos/certificate?lang=en)
