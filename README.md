@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `60` courses with a total of `484 hours.`
+Below is a list of the courses I completed. There are currently `61` courses with a total of `492 hours.`
 
 #### Java
 
@@ -65,6 +65,7 @@ Below is a list of the courses I completed. There are currently `60` courses wit
 
 #### DevOps
 
+- Git and GitHub: mastering code version control. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/git-github-dominando-controle-versao-codigo/certificate?lang=en)
 - Docker: creating and managing containers. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/docker-criando-gerenciando-containers/certificate?lang=en)
 - NGINX Part 2: Performance, FastCGI and HTTPS. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/nginx-parte-2-performance-fastcgi-https/certificate?lang=en)
 - Terminal: Learn commands to perform tasks. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/terminal-comandos-executar-tarefas/certificate?lang=en)
