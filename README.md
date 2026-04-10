@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `61` courses with a total of `492 hours.`
+Below is a list of the courses I completed. There are currently `62` courses with a total of `504 hours.`
 
 #### Java
 
@@ -97,6 +97,7 @@ Below is a list of the courses I completed. There are currently `61` courses wit
 
 #### Mobile
 
+- Android: Building with Kotlin _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/android-construindo-kotlin/certificate?lang=en)
 - React Native: Developing with Expo. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/react-native-desenvolvendo-expo/certificate?lang=en)
 
 #### Database
