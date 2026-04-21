@@ -17,10 +17,11 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `62` courses with a total of `504 hours.`
+Below is a list of the courses I completed. There are currently `63` courses with a total of `512 hours.`
 
 #### Java
 
+- Java Architecture: Create a Scalable Infrastructure. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/arquitetura-java-crie-infraestrutura-escalavel/certificate?lang=en)
 - Java Architecture: Modeling applications with Domain-Driven Design. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/arquitetura-java-aplicacoes-domain-driven-design/certificate?lang=en)
 - Java Architecture: Simplifying Clean Architecture. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/arquitetura-java-descomplicando-clean-architecture/certificate?lang=en)
 - Java: Creating your first application. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/java-criando-primeira-aplicacao/certificate?lang=en)
