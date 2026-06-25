@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `64` courses with a total of `520 hours.`
+Below is a list of the courses I completed. There are currently `65` courses with a total of `528 hours.`
 
 #### Java
 
@@ -66,6 +66,7 @@ Below is a list of the courses I completed. There are currently `64` courses wit
 
 #### DevOps
 
+- Kubernetes: Deployments, Volumes and Scalability. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/kubernetes-deployments-volumes-escalabilidade/certificate?lang=en)
 - Kubernetes: Pods, Services and ConfigMaps. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/kubernetes-pods-services-configmap/certificate?lang=en)
 - Git and GitHub: mastering code version control. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/git-github-dominando-controle-versao-codigo/certificate?lang=en)
 - Docker: creating and managing containers. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/docker-criando-gerenciando-containers/certificate?lang=en)
