@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `65` courses with a total of `528 hours.`
+Below is a list of the courses I completed. There are currently `66` courses with a total of `536 hours.`
 
 #### Java
 
@@ -44,6 +44,7 @@ Below is a list of the courses I completed. There are currently `65` courses wit
 
 #### Spring
 
+- Java: Java and Spring Security: protect your web applications. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/java-spring-security-proteja-aplicacoes-web/certificate?lang=en)
 - Java: Working with lambdas, streams and Spring Framework. _School: [Alura](https://www.alura.com.br/)._ _Duration: 14h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/java-trabalhando-lambdas-streams-spring-framework/certificate?lang=en)
 - Java: Data persistence and queries with Spring Data JPA. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/java-persistencia-dados-consultas-spring-data-jpa/certificate?lang=en)
 - Java: Creating your first API and connecting to the front-end. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/java-criando-primeira-api-conectando-front/certificate?lang=en)
