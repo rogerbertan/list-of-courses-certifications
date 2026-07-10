@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `67` courses with a total of `546 hours.`
+Below is a list of the courses I completed. There are currently `68` courses with a total of `556 hours.`
 
 #### Java
 
@@ -102,6 +102,7 @@ Below is a list of the courses I completed. There are currently `67` courses wit
 
 #### Mobile
 
+- Flutter: Introduction to Mobile App Development _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/flutter-desenvolvendo-primeiro-app/certificate?lang=en)
 - Android: Building with Kotlin _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/android-construindo-kotlin/certificate?lang=en)
 - React Native: Developing with Expo. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/react-native-desenvolvendo-expo/certificate?lang=en)
 
