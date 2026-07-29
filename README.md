@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `69` courses with a total of `564 hours.`
+Below is a list of the courses I completed. There are currently `70` courses with a total of `572 hours.`
 
 #### Java
 
@@ -55,6 +55,7 @@ Below is a list of the courses I completed. There are currently `69` courses wit
 
 #### Go (Golang)
 
+- Go: managing and optimizing your API. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/go-gerenciando-otimizando-api/certificate?lang=en)
 - Go: creating a Rest API. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/go-criando-api-rest/certificate?lang=en)
 
 #### Microservices
