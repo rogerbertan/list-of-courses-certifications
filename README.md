@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `72` courses with a total of `586 hours.`
+Below is a list of the courses I completed. There are currently `73` courses with a total of `596 hours.`
 
 #### Java
 
@@ -41,6 +41,10 @@ Below is a list of the courses I completed. There are currently `72` courses wit
 - Practicing Java: Object Orientation with classes, attributes and methods. _School: [Alura](https://www.alura.com.br/)._ _Duration: 4h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/praticando-java-orientacao-objetos-classes-atributos-metodos/certificate?lang=en)
 - Practicing Java: Encapsulation. _School: [Alura](https://www.alura.com.br/)._ _Duration: 4h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/praticando-java-encapsulamento/certificate?lang=en)
 - Practicing Java: Inheritance, polymorphism and interfaces. _School: [Alura](https://www.alura.com.br/)._ _Duration: 6h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/praticando-java-heranca-polimorfismo-interfaces/certificate?lang=en)
+
+#### Kotlin
+
+- REST API with Kotlin and Spring Boot: Web Layer. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/api-rest-kotlin-spring-boot-camada-web/certificate?lang=en)
 
 #### Spring
 
