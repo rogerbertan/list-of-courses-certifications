@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `73` courses with a total of `596 hours.`
+Below is a list of the courses I completed. There are currently `74` courses with a total of `604 hours.`
 
 #### Java
 
@@ -44,6 +44,7 @@ Below is a list of the courses I completed. There are currently `73` courses wit
 
 #### Kotlin
 
+- REST API with Kotlin and Spring Boot: Persistence Layer. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/api-rest-kotlin-spring-boot-camada-persistencia/certificate?lang=en)
 - REST API with Kotlin and Spring Boot: Web Layer. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/user/rogerbertan/course/api-rest-kotlin-spring-boot-camada-web/certificate?lang=en)
 
 #### Spring
